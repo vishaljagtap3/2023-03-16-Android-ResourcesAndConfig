@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ResourcesDemo</string>
+    <string name="company">BitCode</string>
+
+    <integer name="company_code">1010</integer>
+    <bool name="is_visible">false</bool>
+    <color name="bg_color">#cdffff</color>
+    <dimen name="txt_width">200dp</dimen>
+    <dimen name="txt_height">100dp</dimen>
+    <color name="txt_color">#fff</color>
+    <dimen name="txt_size">30sp</dimen>
+
+    <string-array name="cities">
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Delhi</item>
+    </string-array>
+
+    <integer-array name="city_code">
+        <item>411001</item>
+        <item>400001</item>
+        <item>500001</item>
+        <item>100001</item>
+    </integer-array>
+</resources>
